@@ -2,451 +2,286 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501e1f45-a804-46bf-b326-d0cb268dede9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/Genericons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/Genericons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/Genericons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/images/coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/images/espresso.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/images/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/images/sandwich.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/Genericons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/Genericons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/Genericons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/img/src/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/de_DE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/el_GR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/es_ES.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/fr_FR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/it_IT.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/ko_KR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/nb_NO.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/nl_NL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/nn_NO.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/pt_BR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/pt_PT.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/ru_RU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/sv_SE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/author-bio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/content-link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/content-search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/css/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/css/ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/COPYING.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/Genericons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/genericons/genericons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/inc/back-compat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/inc/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/inc/customizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/inc/template-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/js/color-scheme-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/js/customize-preview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/js/keyboard-image-navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/js/skip-link-focus-fix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyfifteen/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/css/colors-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/css/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/css/ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/css/ie9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/images/svg-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/js/customize-controls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/js/customize-preview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/js/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/js/jquery.scrollTo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/js/navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/assets/js/skip-link-focus-fix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/front-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/inc/back-compat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/inc/color-patterns.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/inc/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/inc/customizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/inc/icon-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/inc/template-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/inc/template-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/searchform.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/footer/footer-widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/footer/site-info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/header/header-image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/header/site-branding.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/navigation/navigation-top.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/page/content-front-page-panels.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/page/content-front-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/page/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/post/content-audio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/post/content-excerpt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/post/content-gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/post/content-image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/post/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/post/content-video.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentyseventeen/template-parts/post/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/css/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/css/ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/css/ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/COPYING.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/Genericons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/genericons/genericons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/inc/back-compat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/inc/customizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/inc/template-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/js/color-scheme-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/js/customize-preview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/js/keyboard-image-navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/js/skip-link-focus-fix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/searchform.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/sidebar-content-bottom.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/template-parts/biography.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/template-parts/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/template-parts/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/template-parts/content-search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/template-parts/content-single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/twentysixteen/template-parts/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/codesniffer.ruleset.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/css/custom-editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/css/theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/css/theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/global-templates/hero.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/global-templates/left-sidebar-check.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/global-templates/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/bootstrap-wp-navwalker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/custom-comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/customizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/enqueue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/extras.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/jetpack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/security.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/setup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/style-wpcom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/template-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/theme-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/woocommerce.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/inc/wpcom.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/js/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/js/theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/js/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/de_DE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/el_GR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/es_ES.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/fr_FR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/it_IT.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/ko_KR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/nb_NO.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/nl_NL.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/nn_NO.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/pt_BR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/pt_PT.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/ru_RU.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/sv_SE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/languages/understrap.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/loop-templates/content-blank.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/loop-templates/content-empty.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/loop-templates/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/loop-templates/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/loop-templates/content-search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/loop-templates/content-single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/loop-templates/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/page-templates/blank.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/page-templates/both-sidebarspage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/page-templates/empty.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/page-templates/fullwidthpage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/page-templates/left-sidebarpage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/page-templates/right-sidebarpage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/assets/bootstrap4.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/assets/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/assets/underscores.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/theme/_contact-form7.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/theme/_theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/theme/_theme_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sass/understrap/understrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/searchform.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sidebar-footerfull.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sidebar-hero.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sidebar-left.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sidebar-right.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sidebar-statichero.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether-theme-arrows-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether-theme-arrows-dark.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether-theme-arrows.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether-theme-arrows.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether-theme-basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether-theme-basic.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/css/tether.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/bootstrap4/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/bootstrap4/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/skip-link-focus-fix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/tether.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/tether.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_breadcrumb.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_button-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_close.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_code.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_custom-forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_custom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_images.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_input-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_jumbotron.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_popover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_responsive-embed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_transitions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/bootstrap-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/bootstrap-reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_background-variant.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_breakpoints.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_grid-framework.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_hover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_nav-divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_navbar-align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_reset-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_resize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_table-row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_text-emphasis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_text-hide.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_text-truncate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_transforms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/mixins/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_borders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_display.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_flex.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_screenreaders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/bootstrap4/utilities/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/fontawesome/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/elements/_elements.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/elements/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/elements/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/forms/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/forms/_fields.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/forms/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/layout/_content-sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/layout/_sidebar-content.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/media/_captions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/media/_galleries.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/media/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/mixins/_mixins-master.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/modules/_accessibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/modules/_alignments.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/modules/_clearings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/modules/_infinite-scroll.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/navigation/_links.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/navigation/_menus.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/navigation/_navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/site/_site.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/site/primary/_comments.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/site/primary/_posts-and-pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/site/secondary/_widgets.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/typography/_copy.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/typography/_headings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/typography/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/variables-site/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/variables-site/_structure.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/variables-site/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/sass/underscores/variables-site/_variables-site.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/archive-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/cart/cart-empty.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/cart/cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/cart/mini-cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/cart/proceed-to-checkout-button.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/checkout/form-checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/checkout/form-coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/checkout/form-pay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/checkout/payment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/global/form-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/global/quantity-input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/global/wrapper-end.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/global/wrapper-start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/loop/add-to-cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/loop/orderby.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/downloads.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/form-edit-account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/form-edit-address.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/form-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/form-lost-password.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/form-reset-password.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/my-address.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/my-orders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/navigation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/myaccount/orders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/single-product/add-to-cart/simple.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/single-product/product-thumbnails.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/single-product/rating.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/single-product/review-rating.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/woocommerce/single-product/short-description.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/images/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/images/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/images/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/font/acf.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/font/acf.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/font/acf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/images/spinner@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/images/sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-bg_highlight-soft_0_ffffff_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-icons_444444_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-icons_DDDDDD_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ar.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-bg_BG.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-cs_CZ.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-de_CH.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-de_DE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-de_DE_formal.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-es_ES.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-fa_IR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-fi.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-fr_FR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-he_IL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-hu_HU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-id_ID.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-it_IT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ja.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-nb_NO.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-nl_NL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-pl_PL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-pt_BR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-pt_PT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ro_RO.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ru_RU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-sk_SK.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-sv_SE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-tr_TR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-uk.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-zh_CN.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/acf-font-awesome-v4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/acf-font-awesome-v5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/acf-font-awesome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/better-font-awesome-library.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/css/admin-styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/js/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fallback-font-awesome/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fontawesome-iconpicker/css/fontawesome-iconpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fontawesome-iconpicker/css/fontawesome-iconpicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fontawesome-iconpicker/js/fontawesome-iconpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/better-font-awesome-library/lib/fontawesome-iconpicker/js/fontawesome-iconpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/css/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/css/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/create_input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/edit_input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_en.js.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2_locale_zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/acf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/field-group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/field-groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/install-network.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/install-updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/settings-addons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/settings-info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/settings-tools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/field-group-field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/field-group-options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/install-network.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/install-notice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/settings-addons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/settings-info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/settings-tools-export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/admin/views/settings-tools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/api/api-field-group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/api/api-field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/api/api-helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/api/api-template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/api/api-value.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/css/acf-field-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/css/acf-global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/css/acf-input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/font/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/font/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/font/acf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/font/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/js/acf-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/ajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/compatibility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/deprecated.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/loop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/media.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/revisions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/third_party.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/core/wpml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/checkbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/color_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/date_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/date_time_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/google-map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/number.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/oembed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/page_link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/password.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/post_object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/radio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/relationship.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/textarea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/time_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/true_false.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/fields/wysiwyg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/forms/attachment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/forms/comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/forms/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/forms/taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/forms/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/forms/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ar.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-bg_BG.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-cs_CZ.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-de_CH.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-de_DE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-de_DE_formal.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-es_ES.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-fa_IR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-fi.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-fr_FR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-he_IL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-hu_HU.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-id_ID.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-it_IT.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ja.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-nb_NO.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-nl_NL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-pl_PL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-pt_BR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-pt_PT.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ro_RO.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-ru_RU.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-sk_SK.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-sv_SE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-tr_TR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-uk.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf-zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/lang/acf.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/acf-pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/admin/options-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/admin/settings-updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/admin/views/options-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/api/api-options-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/assets/css/acf-pro-field-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/assets/css/acf-pro-input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-field-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-field-group.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/core/updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/fields/clone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/fields/gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/pro/fields/repeater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/advanced-custom-fields-pro/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/accueil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/understrap/src/js/cbpFWTabs.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/understrap/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/understrap/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/understrap/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/understrap/css/theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/understrap/css/theme.min.css.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/understrap/footer.php" afterPath="$PROJECT_DIR$/themes/understrap/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/understrap/functions.php" afterPath="$PROJECT_DIR$/themes/understrap/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/understrap/gulpfile.js" afterPath="$PROJECT_DIR$/themes/understrap/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/understrap/inc/extras.php" afterPath="$PROJECT_DIR$/themes/understrap/inc/extras.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/understrap/js/theme.js" afterPath="$PROJECT_DIR$/themes/understrap/js/theme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/understrap/js/theme.min.js" afterPath="$PROJECT_DIR$/themes/understrap/js/theme.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/understrap/sass/theme/_theme.scss" afterPath="$PROJECT_DIR$/themes/understrap/sass/theme/_theme.scss" />
     </list>
     <ignored path="wp-content.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -467,12 +302,104 @@
     <favorites_list name="wp-content" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="theme.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/sass/theme.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/sass/theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8">
+              <caret line="9884" column="20" selection-start-line="9884" selection-start-column="20" selection-end-line="9884" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/understrap/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2254642">
-              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="298" column="43" selection-start-line="298" selection-start-column="43" selection-end-line="298" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/css/theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.7454543">
+              <caret line="19747" column="14" selection-start-line="19747" selection-start-column="0" selection-end-line="19748" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_menus.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/src/sass/underscores/navigation/_menus.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.692307">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/css/theme.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="611.939">
+              <caret line="16" column="29410" selection-start-line="16" selection-start-column="29410" selection-end-line="16" selection-end-column="29410" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.884615">
+              <caret line="58" column="17" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cbpFWTabs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/src/js/cbpFWTabs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/node_modules/undescores-for-npm/js/navigation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/understrap/node_modules/undescores-for-npm/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20710059">
+              <caret line="103" column="23" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -486,7 +413,31 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/themes/understrap/index.php" />
+        <option value="$PROJECT_DIR$/themes/understrap/header.php" />
+        <option value="$PROJECT_DIR$/themes/understrap/inc/extras.php" />
+        <option value="$PROJECT_DIR$/themes/understrap/js/theme.js" />
+        <option value="$PROJECT_DIR$/themes/understrap/css/theme.min.css.map" />
+        <option value="$PROJECT_DIR$/themes/understrap/src/sass/underscores/forms/_buttons.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap/src/sass/underscores/style.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap/node_modules/undescores-for-npm/functions.php" />
+        <option value="$PROJECT_DIR$/themes/understrap/accueil.php" />
         <option value="$PROJECT_DIR$/themes/understrap/gulpfile.js" />
+        <option value="$PROJECT_DIR$/themes/understrap2/node_modules/undescores-for-npm/functions.php" />
+        <option value="$PROJECT_DIR$/themes/understrap2/sass/theme/partials/_sections.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap2/sass/theme/_theme.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap2/gulpfile.js" />
+        <option value="$PROJECT_DIR$/themes/understrap2/sass/theme/partials/sections/_menus.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap2/sass/theme/modules/_animation.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap2/css/theme.css" />
+        <option value="$PROJECT_DIR$/themes/understrap2/css/theme.min.css" />
+        <option value="$PROJECT_DIR$/themes/understrap/footer.php" />
+        <option value="$PROJECT_DIR$/themes/understrap/sass/theme/_theme.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap/src/sass/underscores/modules/_animation.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap/css/theme.min.css" />
+        <option value="$PROJECT_DIR$/themes/understrap/css/theme.css" />
+        <option value="$PROJECT_DIR$/themes/understrap/src/sass/underscores/navigation/_menus.scss" />
+        <option value="$PROJECT_DIR$/themes/understrap/src/js/cbpFWTabs.js" />
       </list>
     </option>
   </component>
@@ -495,12 +446,15 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="1" />
-    <option name="width" value="1364" />
-    <option name="height" value="739" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -527,6 +481,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -578,9 +533,278 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="underscores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="underscores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="navigation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme.scss" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="understrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -588,8 +812,54 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Tournebroche-restaurant\wp-content\themes\understrap\src\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Tournebroche-restaurant\wp-content\themes\understrap2" />
+      <recent name="C:\xampp\htdocs\Tournebroche-restaurant\wp-content\themes\understrap2\src\js" />
+      <recent name="C:\xampp\htdocs\Tournebroche-restaurant\wp-content\themes\understrap2\sass\theme\modules" />
+      <recent name="C:\xampp\htdocs\Tournebroche-restaurant\wp-content\themes" />
+      <recent name="C:\xampp\htdocs\Tournebroche-restaurant\wp-content\themes\understrap\src\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="501e1f45-a804-46bf-b326-d0cb268dede9" name="Default" comment="" />
@@ -597,43 +867,332 @@
       <option name="number" value="Default" />
       <updated>1498318970314</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1498322174281</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498322174281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="1" width="1364" height="739" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.49183977" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2152174" sideWeight="0.49114582" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.50816023" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21516165" sideWeight="0.50885415" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2152174" sideWeight="0.49114582" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21516165" sideWeight="0.50885415" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17963752" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/understrap/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/sass/theme/_theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/global-templates/hero.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/sidebar-hero.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/advanced-custom-fields-font-awesome/js/select2/select2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.491/FullWidthTabs/js/cbpFWTabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/inc/editor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.115385">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/inc/extras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9615384">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/js/theme.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6257669">
+          <caret line="0" column="1711" selection-start-line="0" selection-start-column="1710" selection-end-line="0" selection-end-column="1711" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/inc/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4241574">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/inc/enqueue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/inc/custom-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.0769231">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../labete_test/wp-content/themes/understrap/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/src/sass/underscores/forms/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/src/sass/underscores/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.5">
+          <caret line="110" column="28" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/src/sass/underscores/navigation/_links.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/css/custom-editor-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.807693">
+          <caret line="264" column="9" selection-start-line="264" selection-start-column="9" selection-end-line="264" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hd2-minuskule/wp-content/themes/minuskule/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/sass/understrap/understrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="23.538462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/accueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.26923">
+          <caret line="67" column="24" selection-start-line="67" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/js/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5361" column="58" selection-start-line="5361" selection-start-column="58" selection-end-line="5361" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/sass/theme/_theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7692308">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/understrap/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2254642">
-          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="298" column="43" selection-start-line="298" selection-start-column="43" selection-end-line="298" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/css/theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="611.939">
+          <caret line="16" column="29410" selection-start-line="16" selection-start-column="29410" selection-end-line="16" selection-end-column="29410" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/sass/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/sass/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8">
+          <caret line="9884" column="20" selection-start-line="9884" selection-start-column="20" selection-end-line="9884" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.7454543">
+          <caret line="19747" column="14" selection-start-line="19747" selection-start-column="0" selection-end-line="19748" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/src/sass/underscores/navigation/_menus.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.884615">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/src/js/cbpFWTabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/node_modules/undescores-for-npm/js/navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/understrap/node_modules/undescores-for-npm/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20710059">
+          <caret line="103" column="23" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
           <folding />
         </state>
       </provider>
