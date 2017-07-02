@@ -54,6 +54,10 @@ $container = get_theme_mod( 'understrap_container_type' );
 <?php wp_footer(); ?>
 
 </body>
+<script src="<?php echo get_template_directory_uri(); ?>/src/js/cbpFWTabs.js"></script>
+<script>
+	new CBPFWTabs( document.getElementById( 'tabs' ) );
+</script>
 
 </html>
 

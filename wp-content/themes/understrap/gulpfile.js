@@ -18,7 +18,8 @@ var browserSyncWatchFiles = [
 // browser-sync options
 // see: https://www.browsersync.io/docs/options/
 var browserSyncOptions = {
-    proxy: "localhost/wordpress/",
+    open: 'external',
+    proxy: "http://localhost/Tournebroche-restaurant/",
     notify: false
 };
 
@@ -33,16 +34,18 @@ var rename = require('gulp-rename');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
 var merge2 = require('merge2');
-var imagemin = require('gulp-imagemin');
+// var imagemin = require('gulp-imagemin');
 var ignore = require('gulp-ignore');
 var rimraf = require('gulp-rimraf');
 var clone = require('gulp-clone');
 var merge = require('gulp-merge');
 var sourcemaps = require('gulp-sourcemaps');
-var browserSync = require('browser-sync').create();
+var browserSync = require('browser-sync');//.create();
 var del = require('del');
 var cleanCSS = require('gulp-clean-css');
 var gulpSequence = require('gulp-sequence');
+var connect = require('gulp-connect');
+
 
 
 // Run:
@@ -122,17 +125,19 @@ gulp.task('watch', function () {
     gulp.watch([basePaths.dev + 'js/**/*.js','js/**/*.js','!js/theme.js','!js/theme.min.js'], ['scripts']);
 
     //Inside the watch task.
-    gulp.watch('./img/**', ['imagemin'])
+    //gulp.watch('./img/**', ['imagemin'])
 });
 
 // Run:
 // gulp imagemin
 // Running image optimizing task
+/*
 gulp.task('imagemin', function(){
     gulp.src('img/src/**')
     .pipe(imagemin())
     .pipe(gulp.dest('img'))
 });
+*/
 
 
 // Run:
@@ -181,7 +186,7 @@ gulp.task('styles', function(callback){ gulpSequence('sass', 'minify-css')(callb
 // gulp browser-sync
 // Starts browser-sync task for starting the server.
 gulp.task('browser-sync', function() {
-    browserSync.init(browserSyncWatchFiles, browserSyncOptions);
+	  browserSync.init(browserSyncWatchFiles, browserSyncOptions);
 });
 
 
@@ -294,4 +299,12 @@ gulp.task('dist-product', ['clean-dist-product'], function() {
 // Deleting any file inside the /src folder
 gulp.task('clean-dist-product', function () {
   return del(['dist-product/**/*',]);
+});
+
+
+
+gulp.task('default', ['browser-sync'], function () {
+    gulp.watch('./sass/**/*.scss', ['styles']);
+    gulp.watch('./src/scss/**/*.scss', ['styles']);
+    gulp.watch('./src/js/**/*.js', ['scripts' , browserSync.reload]);
 });
